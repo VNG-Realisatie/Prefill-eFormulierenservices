@@ -1,0 +1,42 @@
+baseurl: "/Betalen-en-Invorderenservices"
+apiname: "Betalen- en Invorderenservices"
+versie-nr: "1.04"
+restAPI-Alternatief: "Nee"
+url: "http://localhost:4000"
+
+# nav is t.b.v. generatie side-navigation menu.
+# Een 'title' zonder path of url genereert slechts een kopje.
+# 'path' vormt tezamen met de baseurl de url waarmee de 'href' wordt gevuld. 
+# Indien een 'url' voorradig dan wordt daarmee de 'href' gevuld en dient het path slechts om te bepalen welke link active is.
+# 'target: blank' zorgt er voor dat de link in een nieuw tabblad wordt geöpend.
+nav:
+  - title: Wabo-BAG Services
+    subnav:
+      - title: Overzicht
+        path: /
+      - title: ICT aanbod
+        path: /ICT aanbod  
+      - title: Techniek
+        path: /Techniek
+      - title: Opdrachtgeverschap
+        path: /Opdrachtgeverschap  
+      - title: Compliancy  
+        path: /Compliancy
+      - title: Documentatie  
+        path: /Documentatie
+#      - title: Werkgroep  
+#        path: /Werkgroep 
+
+plugins:
+  - jekyll-redirect-from
+  - jekyll-remote-theme
+
+remote_theme: melsk-r/jekyll-theme-vng-realisatie
+
+github: VNG-Realisatie/Betalen-en-Invorderenservices
+
+theme: jekyll-theme-time-machine
+
+project_name: VNG-Realisatie/Betalen-en-Invorderenservices
+
+standard_family: ZGW
