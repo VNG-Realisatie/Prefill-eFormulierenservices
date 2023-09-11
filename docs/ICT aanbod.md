@@ -5,9 +5,7 @@ title: ICT aanbod Prefill eFormulierenservices
 # ICT aanbod Prefill eFormulierenservices
 
 ## Afspraken met leveranciers
-* In het [addendum Prefill eFormulierenservices](https://www.softwarecatalogus.nl/addenda/addendum/Prefill%20e-formulieren%20services) zijn afspraken gemaakt over implementatie van deze standaard in software;
-* Leveranciers zijn akkoord met de afspraak om de standaard beschikbaar te stellen in de 1e release na 1 juli 2014 en uiterlijk 31 december 2014.
-* Leveranciers houden de actuele releaseplanning ten aanzien van deze standaard bij in de GEMMA Softwarecatalogus.
+Leveranciers houden de actuele releaseplanning ten aanzien van deze standaard bij in de GEMMA Softwarecatalogus.
 
 ## Welke softwareproducten ondersteunen de standaard?
 De standaard is in lijn met GEMMA en maakt gebruik van onderliggende standaarden RSGB 2.0 en StUF BG 3.1. In de [GEMMA Softwarecatalogus](https://www.softwarecatalogus.nl/) vindt u een overzicht van alle softwareproducten van leveranciers die zijn gekoppeld aan de standaard Prefill eFormulierservices 1.0.
