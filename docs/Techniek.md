@@ -13,7 +13,7 @@ De specificatie beschrijft drie referentiecomponenten. Dit zijn:
 
 Onderstaand overzicht beschrijft het applicatielandschap met de te standaardiseren proces- en systeeminteracties. De interacties met een grijs bolletje en een B erin zijn buiten scope geplaatst.
 
-<img src="./images/Prefill_eFormulieren_ICT_1.png" width="600"/>
+<img src="./images/Prefill_eFormulieren_ICT_1.png" width="800"/>
 
 ## Definities:
 * Referentiecomponent: Lijst van definities zoals opgenomen in de GEMMA Applicatieatlas.
