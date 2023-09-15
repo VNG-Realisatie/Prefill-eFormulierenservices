@@ -36,7 +36,7 @@ folder_files:
     versie: 1.0.3
     status: 
     omschrijving: 
-    datum:20170501
+    datum: 20170501
   - title: Specificatie Prefill E-formulierenservices v1.0.3 (pdf)
     path: documenten/Specificatie_Prefill_E-formulierenservices_v1.0.3.pdf
     group: 10
