@@ -13,5 +13,14 @@ Verschillende ontwikkelingen maken het vernieuwen van standaarden noodzakelijk o
 
 **RSGB bevragingen** is een uitbreiding van de prefill eFormulierservices. Het is een berichtenstandaard voor het opvragen van gegevens zoals beschreven in het RSGB. Het bevat de berichtspecificaties van de meest gebruikte bevragingen in het gemeentedomein.
 
-## Discussieplatform
-Hier kunt u terecht voor de nieuwste discussies m.b.t. [Prefill eFormulierenservices en RSGB Bevragingen](https://github.com/VNG-Realisatie/StUF-Standaarden/issues?q=is%3Aopen+is%3Aissue+label%3A%22Koppelvlak+-+PRS%22).
+## Community voor vragen en wijzigingsverzoeken
+
+Het kan voorkomen dat er nog onduidelijkheden zijn in de
+standaard Prefill eFormulierenservices en RSGB Bevragingen. Daarvoor is op Github een
+[community](https://github.com/VNG-Realisatie/StUF-Standaarden/issues?q=is%3Aopen+is%3Aissue+label%3A%22Koppelvlak+-+PRS%22)
+beschikbaar gesteld waar u vragen kunt stellen door een issue aan te
+maken. Middels het label ‘Koppelvlak - PRS’ kunt u het issue
+vervolgens aan deze standaard koppelen.
+
+Zowel VNG Realisatie als leveranciers en gemeenten kunnen dan online
+reageren op de vraag en deze beantwoorden.
