@@ -14,8 +14,7 @@ Verschillende ontwikkelingen maken het vernieuwen van standaarden noodzakelijk o
 
 ## Community voor vragen en wijzigingsverzoeken
 
-Het kan voorkomen dat er nog onduidelijkheden zijn in de
-standaard Prefill eFormulierenservices en RSGB Bevragingen. Daarvoor is op Github een
+Het kan voorkomen dat er nog onduidelijkheden zijn in de standaard Prefill eFormulierenservices. Daarvoor is op Github een
 [community](https://github.com/VNG-Realisatie/StUF-Standaarden/issues?q=is%3Aopen+is%3Aissue+label%3A%22Koppelvlak+-+PRS%22)
 beschikbaar gesteld waar u vragen kunt stellen door een issue aan te
 maken. Middels het label ‘Koppelvlak - PRS’ kunt u het issue
