@@ -9,13 +9,6 @@ folder_files:
     status: 
     omschrijving: 
     datum: 20141008
-  - title: Addendum Prefill 0 (pdf)
-    path: documenten/Addendum_Prefill_0.pdf
-    group: 10
-    versie: 
-    status: 
-    omschrijving: 
-    datum: 20131108
   - title: Koppelvlakspecificatie prefill eFormulieren - Berichtschema's (zip)
     path: documenten/20160201_PRS_102.zip
     group: 10
